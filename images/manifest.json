@@ -88,6 +88,168 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7096/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "IMG_7096"
+                ]
+            },
+            "height": 3024,
+            "width": 4032,
+            "items": [
+                {
+                    "id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7096/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7096/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7096/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 126,
+                                                "height": 95
+                                            },
+                                            {
+                                                "width": 252,
+                                                "height": 189
+                                            },
+                                            {
+                                                "width": 504,
+                                                "height": 378
+                                            },
+                                            {
+                                                "width": 1008,
+                                                "height": 756
+                                            },
+                                            {
+                                                "width": 2016,
+                                                "height": 1512
+                                            },
+                                            {
+                                                "width": 4032,
+                                                "height": 3024
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4032,
+                                        "@id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7096",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3024,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7096/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7093/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "IMG_7093"
+                ]
+            },
+            "height": 3024,
+            "width": 4032,
+            "items": [
+                {
+                    "id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7093/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7093/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7093/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 126,
+                                                "height": 95
+                                            },
+                                            {
+                                                "width": 252,
+                                                "height": 189
+                                            },
+                                            {
+                                                "width": 504,
+                                                "height": 378
+                                            },
+                                            {
+                                                "width": 1008,
+                                                "height": 756
+                                            },
+                                            {
+                                                "width": 2016,
+                                                "height": 1512
+                                            },
+                                            {
+                                                "width": 4032,
+                                                "height": 3024
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4032,
+                                        "@id": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7093",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3024,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://AngelaDressen.github.io/Padua-PalazzodellaRagione/images/IMG_7093/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
